@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+.buto {
+  cursor: pointer;
+  padding: 1rem;
+  border: solid black;
+  border-radius: 0.5em 1rem;
+  border-style: dashed;
+  margin: 0.5rem;
+  font-size: larger;
+  color: white;
+  background-color: black;
+}
+.dob {
+  color: white;
+  background-color: black;
+  padding: 1rem;
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 40%;
+  margin: 0 auto;
+  font-size: larger;
+  margin-top: 1rem;
+  border-radius: 7px;
+
+  height: 5rem;
+  font-family: "Comforter Brush", cursive;
+  text-decoration: none;
+}
