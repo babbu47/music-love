@@ -1,6 +1,4 @@
-import React, { useState } from "react";
-import "./styles.css";
-const music = {
+
 import React, { useState } from "react";
 import "./styles.css";
 const music = {
